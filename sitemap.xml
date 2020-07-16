@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+<url>
+  <loc>http://codigger.consulting/</loc>
+  <lastmod>2020-07-02T13:17:00+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://codigger.consulting/about-us/</loc>
+  <lastmod>2020-07-02T07:16:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+<loc>http://codigger.consulting/services/</loc>
+<lastmod>2020-07-03T13:02:19+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+  <loc>http://codigger.consulting/services/ui-ux-design/</loc>
+  <lastmod>2020-07-02T07:18:40+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://codigger.consulting/services/app-development/</loc>
+  <lastmod>2020-07-02T07:17:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://codigger.consulting/services/maintenance/</loc>
+  <lastmod>2020-07-02T07:18:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://codigger.consulting/blog/</loc>
+  <lastmod>2020-07-03T05:20:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://codigger.consulting/contact-us/</loc>
+  <lastmod>2020-07-02T13:20:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://codigger.consulting/inquire-now/</loc>
+  <lastmod>2020-06-29T08:46:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://codigger.consulting/terms-of-services/</loc>
+  <lastmod>2020-07-02T13:22:13+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://codigger.consulting/privacy-policy/</loc>
+  <lastmod>2020-07-02T13:22:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://codigger.consulting/blog/example-page/</loc>
+  <lastmod>2020-07-03T05:20:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://codigger.consulting/blog/blog/2019/02/21/what-does-your-pet-really-think-about-you/</loc>
+  <lastmod>2020-07-03T05:20:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://codigger.consulting/blog/blog/category/humans/</loc>
+  <lastmod>2020-07-03T05:20:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://codigger.consulting/blog/styleguide/</loc>
+  <lastmod>2020-07-03T05:20:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://codigger.consulting/blog/blocks-wp-5-0-gutenberg/</loc>
+  <lastmod>2020-07-03T05:20:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://codigger.consulting/blog/shortcodes/</loc>
+  <lastmod>2020-07-03T05:20:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://codigger.consulting/blog/contact/</loc>
+  <lastmod>2020-07-03T05:20:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://codigger.consulting/blog/blog/2019/03/02/does-anybody-else-feel-jealous-and-worried/</loc>
+  <lastmod>2020-07-03T05:20:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://codigger.consulting/blog/blog/author/surpal846/</loc>
+  <lastmod>2020-07-03T05:20:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://codigger.consulting/blog/blog/2019/02/28/what-could-possibly-go-wrong/</loc>
+  <lastmod>2020-07-03T05:20:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://codigger.consulting/blog/blog/2019/02/24/the-simplest-ways-to-choose-the-best-coffee/</loc>
+  <lastmod>2020-07-03T05:20:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://codigger.consulting/blog/blog/category/business/</loc>
+  <lastmod>2020-07-03T05:20:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://codigger.consulting/blog/blog/category/culture/</loc>
+  <lastmod>2020-07-03T05:20:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://codigger.consulting/blog/blog/2019/02/20/once-brewed-coffee-may-be-served-in-a-variety-of-ways/</loc>
+  <lastmod>2020-07-03T05:20:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://codigger.consulting/blog/blog/category/politics/</loc>
+  <lastmod>2020-07-03T05:20:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://codigger.consulting/blog/blog/2019/02/18/knights-i-bid-you-welcome-to-your-new-home/</loc>
+  <lastmod>2020-07-03T05:20:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://codigger.consulting/blog/blog/category/technology/</loc>
+  <lastmod>2020-07-03T05:20:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://codigger.consulting/blog/blog/2019/02/12/now-leave-before-i-am-forced-to-taunt-you/</loc>
+  <lastmod>2020-07-03T05:20:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://codigger.consulting/blog/blog/2019/02/11/are-you-suggesting-that-coconuts-migrate/</loc>
+  <lastmod>2020-07-03T05:20:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://codigger.consulting/blog/blog/2019/02/09/theres-only-one-man-ive-ever-called-a-coward/</loc>
+  <lastmod>2020-07-03T05:20:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://codigger.consulting/blog/blog/2019/02/08/finding-a-needle-in-a-haystack-isnt-hard/</loc>
+  <lastmod>2020-07-03T05:20:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://codigger.consulting/blog/blog/2019/02/07/this-man-is-a-knight-in-shining-armor/</loc>
+  <lastmod>2020-07-03T05:20:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://codigger.consulting/blog/blog/2019/02/05/something-that-ive-never-told-anyone-before/</loc>
+  <lastmod>2020-07-03T05:20:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://codigger.consulting/blog/blog/2019/02/02/when-you-do-things-right-people-wont-be-sure-youve-done-anything-at-all/</loc>
+  <lastmod>2020-07-03T05:20:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://codigger.consulting/blog/blog/2019/01/29/take-your-music-with-you-wherever-you-go/</loc>
+  <lastmod>2020-07-03T05:20:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://codigger.consulting/blog/blog/2019/01/29/why-do-people-think-clouds-are-so-interesting/</loc>
+  <lastmod>2020-07-03T05:20:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://codigger.consulting/blog/page/2/</loc>
+  <lastmod>2020-07-03T05:20:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://codigger.consulting/blog/blog/tag/noimages/</loc>
+  <lastmod>2020-07-03T05:20:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://codigger.consulting/blog/blog/tag/stories/</loc>
+  <lastmod>2020-07-03T05:20:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://codigger.consulting/blog/blog/tag/writing/</loc>
+  <lastmod>2020-07-03T05:20:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://codigger.consulting/blog/blog/2019/01/08/give-a-little-credit-to-our-public-schools/</loc>
+  <lastmod>2020-07-03T05:20:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://codigger.consulting/blog/blog/2019/01/07/saving-the-world-with-meals-on-wheels/</loc>
+  <lastmod>2020-07-03T05:20:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://codigger.consulting/blog/blog/2018/12/31/the-plans-you-refer-to-will-soon-be-back-in-our-hands/</loc>
+  <lastmod>2020-07-03T05:20:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://codigger.consulting/blog/blog/2019/01/24/a-habit-that-will-immediately-improve-your-life/</loc>
+  <lastmod>2020-07-03T05:20:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://codigger.consulting/blog/blog/2018/12/30/may-the-force-be-with-you/</loc>
+  <lastmod>2020-07-03T05:20:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://codigger.consulting/blog/blog/2018/12/29/the-last-time-i-felt-it-was-in-the-presence-of-my-old-master/</loc>
+  <lastmod>2020-07-03T05:20:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://codigger.consulting/blog/blog/tag/typography/</loc>
+  <lastmod>2020-07-03T05:20:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://codigger.consulting/blog/blog/author/surpal846/page/2/</loc>
+  <lastmod>2020-07-03T05:20:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://codigger.consulting/blog/blog/tag/medium/</loc>
+  <lastmod>2020-07-03T05:20:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://codigger.consulting/blog/blog/tag/text-based/</loc>
+  <lastmod>2020-07-03T05:20:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://codigger.consulting/blog/blog/2019/01/26/lessons-ive-learned-by-staying-positive/</loc>
+  <lastmod>2020-07-03T05:20:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://codigger.consulting/blog/blog/2019/01/16/on-second-thoughts-lets-not-go-there/</loc>
+  <lastmod>2020-07-03T05:20:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://codigger.consulting/blog/blog/2019/01/06/theres-no-mystical-energy-field-that-controls-my-destiny/</loc>
+  <lastmod>2020-07-03T05:20:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://codigger.consulting/blog/blog/2019/01/01/she-must-have-hidden-the-plans-in-the-escape-pod/</loc>
+  <lastmod>2020-07-03T05:20:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://codigger.consulting/blog/blog/2019/01/12/just-like-the-story-of-the-grasshopper-and-the-octopus/</loc>
+  <lastmod>2020-07-03T05:20:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://codigger.consulting/blog/blog/2019/01/02/13/</loc>
+  <lastmod>2020-07-03T05:20:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://codigger.consulting/blog/blog/2019/01/25/you-should-start-running-right-now/</loc>
+  <lastmod>2020-07-03T05:20:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://codigger.consulting/blog/blog/2019/01/11/have-you-ever-tried-just-turning-off-the-tv/</loc>
+  <lastmod>2020-07-03T05:20:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://codigger.consulting/blog/blog/2019/01/04/i-want-to-learn-the-ways-of-the-force/</loc>
+  <lastmod>2020-07-03T05:20:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://codigger.consulting/blog/blog/tag/paper/</loc>
+  <lastmod>2020-07-03T05:20:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://codigger.consulting/blog/page/3/</loc>
+  <lastmod>2020-07-03T05:20:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://codigger.consulting/blog/blog/tag/noimages/page/2/</loc>
+  <lastmod>2020-07-03T05:20:41+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://codigger.consulting/blog/blog/tag/stories/page/2/</loc>
+  <lastmod>2020-07-03T05:20:41+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://codigger.consulting/blog/blog/tag/writing/page/2/</loc>
+  <lastmod>2020-07-03T05:20:41+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://codigger.consulting/blog/blog/tag/material/</loc>
+  <lastmod>2020-07-03T05:20:41+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://codigger.consulting/blog/blog/author/surpal846/page/3/</loc>
+  <lastmod>2020-07-03T05:20:41+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>http://codigger.consulting/blog/blog/tag/noimages/page/3/</loc>
+  <lastmod>2020-07-03T05:20:41+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>http://codigger.consulting/blog/blog/tag/stories/page/3/</loc>
+  <lastmod>2020-07-03T05:20:41+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>http://codigger.consulting/blog/blog/tag/writing/page/3/</loc>
+  <lastmod>2020-07-03T05:20:41+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+</urlset>
